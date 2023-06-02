@@ -19,4 +19,3 @@ public class ToileApp extends Application {
     }
 
 }
-
